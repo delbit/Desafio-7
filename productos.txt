@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Producto 7",
+    "price": "4254.44",
+    "thumbnail": "https://picsum.photos/192",
+    "id": 1
+  },
+  {
+    "title": "Producto 3",
+    "price": "5599.94",
+    "thumbnail": "https://picsum.photos/126",
+    "id": 2
+  },
+  {
+    "title": "Producto 2",
+    "price": "2366.15",
+    "thumbnail": "https://picsum.photos/36",
+    "id": 3
+  },
+  {
+    "title": "Producto 6",
+    "price": "2488.13",
+    "thumbnail": "https://picsum.photos/72",
+    "id": 4
+  },
+  {
+    "title": "Producto 10",
+    "price": "8661.47",
+    "thumbnail": "https://picsum.photos/87",
+    "id": 5
+  },
+  {
+    "title": "Producto 7",
+    "price": "8290.74",
+    "thumbnail": "https://picsum.photos/102",
+    "id": 6
+  },
+  {
+    "title": "Producto 10",
+    "price": "680.18",
+    "thumbnail": "https://picsum.photos/91",
+    "id": 7
+  },
+  {
+    "title": "Producto 6",
+    "price": "5902.30",
+    "thumbnail": "https://picsum.photos/89",
+    "id": 8
+  },
+  {
+    "title": "Producto 6",
+    "price": "7369.89",
+    "thumbnail": "https://picsum.photos/182",
+    "id": 9
+  }
+]

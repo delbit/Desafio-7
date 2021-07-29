@@ -1,0 +1,24 @@
+{
+  "name": "desafio-7",
+  "version": "1.0.0",
+  "description": "Desafio 7",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delbit/Desafio-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delbit/Desafio-7/issues"
+  },
+  "homepage": "https://github.com/delbit/Desafio-7#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
